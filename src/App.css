@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+select {
+  padding: 10px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #333;
+  display: block;
+  margin: 20px auto;
+}
+
+option {
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: rgb(68, 30, 203);
+  border-radius: 5px;
+}
+
+.disabled {
+  padding: 10px 20px;
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: rgba(68, 30, 203, 0.342);
+  border-radius: 5px;
+}
